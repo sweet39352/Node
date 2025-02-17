@@ -112,5 +112,5 @@ print_agent_id(){
 create_directory
 create_enc $1
 create_agent
-#create_service
+create_service
 print_agent_id
